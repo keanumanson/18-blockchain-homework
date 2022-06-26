@@ -236,18 +236,28 @@ if st.button("Validate Chain"):
 # 1. In the terminal, navigate to the project folder where you've coded the
 #  Challenge.
 
+#DONE
+
 # 2. In the terminal, run the Streamlit application by
 # using `streamlit run pychain.py`.
 
+#DONE
+
 # 3. Enter values for the sender, receiver, and amount, and then click the "Add
 # Block" button. Do this several times to store several blocks in the ledger.
+
+#DONE
 
 # 4. Verify the block contents and hashes in the Streamlit drop-down menu.
 # Take a screenshot of the Streamlit application page, which should detail a
 # blockchain that consists of multiple blocks. Include the screenshot in the
 # `README.md` file for your Challenge repository.
 
+#DONE
+
 # 5. Test the blockchain validation process by using the web interface.
 # Take a screenshot of the Streamlit application page, which should indicate
 # the validity of the blockchain. Include the screenshot in the `README.md`
 # file for your Challenge repository.
+
+#DONE

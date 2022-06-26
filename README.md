@@ -1,5 +1,5 @@
 # PyChain Ledger
-
+## (At the bottom of the Doc is an explanation of what I updated and added to the README)
 ![alt=""](Images/application-image.png)
 
 You’re a fintech engineer who’s working at one of the five largest banks in the world. You were recently promoted to act as the lead developer on their decentralized finance team. Your task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
@@ -100,4 +100,28 @@ You’ll upload the Python file for this assignment to your GitHub repository.
 
 ---
 
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+# Pychain APP
+
+Start the app, navigate to the .py file location, and enter 'streamlit run pychain.py'.
+Then this should pop up and open the web browser app.
+![alt=""](Images/launch_streamlit_web_app.png)
+
+This is the app, enter values in the input boxes for sender, reciever and amount. Press 'Add Block' button  to add the data block to the ledger. You can also adjust the slider to modify the block difficulty.
+![alt=""](Images/adding_blocks.png)
+
+This is the ledger:
+![alt=""](Images/the_pychain_ledger.png)
+
+And as you continue to add blocks it should add the data blocks to the ledger, you'll be able to see them.
+![alt=""](Images/ledger_with_blocks.png)
+
+You can also view the the drop down list of the blocks.
+![alt=""](Images/dropdown_block_inspector.png)
+
+Then, once all blocks are added, press the 'Validate' button to validate these blocks as a successful chain. And you're done!
+![alt=""](Images/validate_chain.png)
+
+
+
+
+
